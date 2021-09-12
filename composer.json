@@ -1,0 +1,14 @@
+{
+	"autoload":{
+		"psr-4":{
+			"Aota\\": "Aota/"
+		},
+		"files": [
+			"Config/Paths.php",
+			"Config/email_credentials.php"
+		]
+	},
+	"require":{
+		"phpmailer/phpmailer": "^6.5"
+	}
+}

@@ -1,0 +1,41 @@
+section.banner{
+    width: 100%;
+    background-color: #f5f5f5;
+    padding: 20px 10%;
+}
+
+section.banner img{
+    width: 100%;
+    border-radius: 3px;
+    border: 5px solid #1f2d41;
+}
+
+section.box_curriculo{
+    width: 100%;
+    padding: 15px 5%;
+}
+
+section.box_curriculo h1.title{
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px 10px;
+    box-shadow: 2px 2px 8px 2px rgba(153,153,153,0.8);
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+section.box_curriculo div.certified_single{
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+    padding: 5px 10px;
+    box-shadow: 2px 2px 8px 2px rgba(153,153,153,0.8);
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+section.box_curriculo div.certified_single a{
+    color: black;
+}
+
